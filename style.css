@@ -1,12 +1,7 @@
-p{
-    color: red;
-}
-h1{
-
-    background-image: url('../samaun.jpg');
+.header_area{
+    background-image: url(../samaun.jpg);
     background-position: center;
-    background-repeat: no-repeat;
     background-size: cover;
+    background-repeat: no-repeat;
     height: 100vh;
-    
 }
