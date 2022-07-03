@@ -1,7 +1,44 @@
+*{
+
+
+}
 .header_area{
-    background-image: url(../samaun.jpg);
+    background-image: url('..//my-first-repo/pexels-photo-2097090.jpeg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
+}
+.logo{
+    color: chartreuse;
+    width: 49%;
+    float: left;
+
+}
+.logo p{
+    text-align: flex;
+   
+    
+    color: crimson;
+}
+.nav{
+    width: 49%;
+    float: left;
+  color: rgb(255, 157, 0);
+ 
+}
+ul li{
+    display: inline-block;
+    color: palegreen;
+}
+ul li a{
+    text-decoration: none;
+    color: chartreuse;
+
+}
+ul li a:hover{
+    background-color: rgb(211, 39, 39);
+ 
+    border-radius: 5px 5px;
+    
 }
